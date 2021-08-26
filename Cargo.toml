@@ -1,0 +1,3 @@
+
+[workspace]
+members = ["hook", "class", "class_derive"]
